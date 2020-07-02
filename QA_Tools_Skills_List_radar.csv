@@ -3,14 +3,14 @@ github,Core,Tools,FALSE,"git, source code management"
 Looper,Core,Tools,FALSE,
 Concord,Core,Tools,FALSE,
 SonarQube,Core,Tools,FALSE,"Knowledge on technical debt﻿ and complexity﻿, common programming rules (bugs, vulnerabilities, code smells), good coding design, quality metrics﻿ to aid in decision on Rules and Analysis of results"
-PMD,Assessment,Tools,FALSE,
-Checkmarx,Assessment,Tools,FALSE,
-Lint,Assessment,Tools,FALSE,
-ktLink,Assessment,Tools,FALSE,
-SwiftLint,Assessment,Tools,FALSE,
-esLint,Assessment,Tools,FALSE,
-prettier,Assessment,Tools,FALSE,
-XCTest,Assessment,Tools,FALSE,
+PMD,Adopted?,Tools,FALSE,
+Checkmarx,Adopted?,Tools,FALSE,
+Lint,Adopted?,Tools,FALSE,
+ktLink,Adopted?,Tools,FALSE,
+SwiftLint,Adopted?,Tools,FALSE,
+esLint,Adopted?,Tools,FALSE,
+prettier,Adopted?,Tools,FALSE,
+XCTest,Adopted?,Tools,FALSE,
 Jasmine,Core,Tools,FALSE,BDD
 NUnit,Core,Tools,FALSE,.Net
 xUnit,Core,Tools,FALSE,.Net
@@ -20,25 +20,25 @@ Jest,Core,Tools,FALSE,JS
 Karma,Core,Tools,FALSE,JS
 Mocha,Core,Tools,FALSE,JS
 Chai,Core,Tools,FALSE,JS
-Truth,Assessment,Tools,FALSE,
+Truth,Adopted?,Tools,FALSE,
 REST Assured,Core,Tools,FALSE,"Java, REST"
-Powermock,Assessment,Tools,FALSE,
+Powermock,Adopted?,Tools,FALSE,
 Mockitoi,Core,Tools,FALSE,Java
-Sinon,Assessment,Tools,FALSE,JS
-expect(jest),Assessment,Tools,FALSE,JS
-jest-dom,Assessment,Tools,FALSE,JS
-supertest,Assessment,Tools,FALSE,
+Sinon,Adopted?,Tools,FALSE,JS
+expect(jest),Adopted?,Tools,FALSE,JS
+jest-dom,Adopted?,Tools,FALSE,JS
+supertest,Adopted?,Tools,FALSE,
 Nock,Core,Tools,FALSE,JS
-apollo,Assessment,Tools,FALSE,
+apollo,Adopted?,Tools,FALSE,
 Shifu,Core,Tools,FALSE,JS
-sonar(sonarlint),Assessment,Tools,FALSE,
-Android Espresso,Assessment,Tools,FALSE,
-XCUITest,Assessment,Tools,FALSE,
-Testcafe,Assessment,Tools,FALSE,
-instanbul/nyc (jest),Assessment,Tools,FALSE,
+sonar(sonarlint),Adopted?,Tools,FALSE,
+Android Espresso,Adopted?,Tools,FALSE,
+XCUITest,Adopted?,Tools,FALSE,
+Testcafe,Adopted?,Tools,FALSE,
+instanbul/nyc (jest),Adopted?,Tools,FALSE,
 Nightwatch,Core,Tools,FALSE,JS
 Selenium,Core,Tools,FALSE,JS
-Cypress,Assessment,Tools,FALSE,
+Cypress,Adopted?,Tools,FALSE,
 Protractor (JS/Angular),Core,Tools,FALSE,JS/Angular
 Appium (Native Android/mobile web),Core,Tools,FALSE,Android (mobile web) - Java
 JMeter,Core,Tools,FALSE,
@@ -49,7 +49,7 @@ Gatling,Explore,Tools,FALSE,
 Muxy,Explore,Tools,FALSE,
 Gremlin,Explore,Tools,FALSE,
 Pumba,Explore,Tools,FALSE,
-Speedometer,Assessment,Tools,FALSE,
+Speedometer,Adopted?,Tools,FALSE,
 Analytica,Adopt,Tools,FALSE,
 R2,Adopt,Tools,FALSE,
 Pact,Explore,Tools,FALSE,
