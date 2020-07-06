@@ -61,36 +61,36 @@ Hygieia,Adopt,Tools,FALSE,
 Delphix,Explore,Tools,FALSE,
 Imanis Data,Explore,Tools,FALSE,
 Minerva,Explore,Tools,FALSE,
-git/github,Core,Languages & Frameworks,FALSE,github and integrations with other tools
-BDD (Gherkins),Core,Languages & Frameworks,FALSE,Cucumber
-YAML,Core,Techniques,FALSE,Looper
-Java,Core,Languages & Frameworks,FALSE,"Junit
+git/github,Core,Skills,FALSE,github and integrations with other tools
+BDD (Gherkins),Core,Skills,FALSE,Cucumber
+YAML,Core,Skills,FALSE,Looper
+Java,Core,Skills,FALSE,"Junit
 Concord"
-Javascript,Core,Languages & Frameworks,FALSE,"Jasmine, etc. (most Web test tools)"
-maven,Core,Tools,FALSE,
-JSON,Core,Techniques,FALSE,
-REST,Core,Languages & Frameworks,FALSE,"REST API for JIRA Xray
+Javascript,Core,Skills,FALSE,"Jasmine, etc. (most Web test tools)"
+maven,Core,Skills,FALSE,
+JSON,Core,Skills,FALSE,
+REST,Core,Skills,FALSE,"REST API for JIRA Xray
 REST Assured,"
-Jest,Core,Tools,FALSE,
-Configuration Management,Core,Techniques,FALSE,
-Target Management,Core,Techniques,FALSE,
-Node/NodeJS,Core,Languages & Frameworks,FALSE,Puppeteer...
-Ajax,Core,Languages & Frameworks,FALSE,SinonJS…
-Ansible (playbooks),Core,Languages & Frameworks,FALSE,Concord
-Static testing,Core,Techniques,FALSE,
-Unit testing,Core,Techniques,FALSE,
-Integration testing,Core,Techniques,FALSE,
-Functional testing,Core,Techniques,FALSE,
-Performance Testing,Core,Techniques,FALSE,
-Relational tables /SQL,Core,Languages & Frameworks,FALSE,
-Non-relational / NoSQL,Core,Languages & Frameworks,FALSE,
-"Object-oriented concepts (OOC, OOP)",Core,General,FALSE,
-Troubleshooting,Core,General,FALSE,
-Robust systems design,Core,General,FALSE,
-Bug Tracking (Management),Core,General,FALSE,
-Measurement and Analysis,Core,General,FALSE,
-Requirements validation,Core,General,FALSE,
-Test Case Review,Core,General,FALSE,
-Communicating Test Status,Core,General,FALSE,
-Critical Thinking,Core,General,FALSE,
-Collaboration Skills,Core,General,FALSE,
+Jest,Core,Skills,FALSE,
+Configuration Management,Core,Skills,FALSE,
+Target Management,Core,Skills,FALSE,
+Node/NodeJS,Core,Skills,FALSE,Puppeteer...
+Ajax,Core,Skills,FALSE,SinonJS…
+Ansible (playbooks),Core,Skills,FALSE,Concord
+Static testing,Core,Skills,FALSE,
+Unit testing,Core,Skills,FALSE,
+Integration testing,Core,Skills,FALSE,
+Functional testing,Core,Skills,FALSE,
+Performance Testing,Core,Skills,FALSE,
+Relational tables /SQL,Core,Skills,FALSE,
+Non-relational / NoSQL,Core,Skills,FALSE,
+"Object-oriented concepts (OOC, OOP)",Core,Skills,FALSE,
+Troubleshooting,Core,Skills,FALSE,
+Robust systems design,Core,Skills,FALSE,
+Bug Tracking (Management),Core,Skills,FALSE,
+Measurement and Analysis,Core,Skills,FALSE,
+Requirements validation,Core,Skills,FALSE,
+Test Case Review,Core,Skills,FALSE,
+Communicating Test Status,Core,Skills,FALSE,
+Critical Thinking,Core,Skills,FALSE,
+Collaboration Skills,Core,Skills,FALSE,
