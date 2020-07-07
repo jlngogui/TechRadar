@@ -1,0 +1,114 @@
+﻿name,ring,quadrant,isNew,description
+github,Core,Tools&Languages,FALSE,"<a href=""http://devops.walmart.com/bifrost/starting-ci-cd.html"">Walmart deployment pipeline standard tools. </a> https://gecgithub01.walmart.com/"
+Looper,Core,Tools&Languages,FALSE,"<a href=""http://devops.walmart.com/bifrost/starting-ci-cd.html"">Walmart deployment pipeline standard tools. </a> https://ci.walmart.com/"
+Concord,Core,Tools&Languages,FALSE,"<a href=""http://devops.walmart.com/bifrost/starting-ci-cd.html"">Walmart deployment pipeline standard tools. </a> https://concord.prod.walmart.com/"
+SonarQube,Core,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/static"">From Testing ADR.</a> https://docs.sonarqube.org/"
+PMD,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/static"">From Testing ADR.</a>  https://pmd.github.io/"
+Checkmarx,Core,Tools&Languages,FALSE,"<a href=""http://devops.walmart.com/bifrost/starting-ci-cd.html"">Walmart deployment pipeline standard tools. </a> https://checkmarx.wal-mart.com/"
+Lint,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/static"">From Testing ADR.</a>  https://developer.android.com/studio/write/lint"
+ktLink,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/static"">From Testing ADR.</a>  https://ktlint.github.io/"
+SwiftLint,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/static"">From Testing ADR.</a>  https://github.com/realm/SwiftLint"
+esLint,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/static"">From Testing ADR.</a>  https://eslint.org/"
+prettier,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/static"">From Testing ADR.</a>  https://prettier.io/"
+XCTest,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://developer.apple.com/documentation/xctest"
+Jasmine,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://jasmine.github.io/"
+NUnit,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a></a> https://nunit.org/"
+xUnit,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://xunit.github.io/"
+JUnit,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://junit.org/"
+TestNG,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://testng.org/doc/index.html"
+Jest,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://jestjs.io/"
+Karma,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://karma-runner.github.io/2.0/index.html"
+Mocha,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://mochajs.org/"
+Chai,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://www.chaijs.com/"
+Truth,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://github.com/google/truth"
+REST Assured,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://rest-assured.io/"
+Powermock,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://github.com/powermock/powermock"
+Mockito,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://site.mockito.org/"
+Wiremock,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://wiremock.org/"
+Mountebank,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://www.mbtest.org/"
+Sinon,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://sinonjs.org/"
+expect(jest),Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://jestjs.io/docs/en/expect"
+jest-dom,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://github.com/testing-library/jest-dom/releases"
+supertest,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://github.com/visionmedia/supertest"
+Nock,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://github.com/nock/nock"
+apollo,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://www.apollographql.com/docs/react/development-testing/testing/"
+Shifu,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testarmada.walmartlabs.com/documentation/Mocking/"
+sonar(sonarlint),Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://www.sonarlint.org/"
+Arquillian (Java),Deprecated,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://arquillian.org/"
+DevTest,Deprecated,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testing.walmart.com/docs/devtest/plan.html"
+HPALM / UFT,Deprecated,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testing.walmart.com/docs/uft/plan.html"
+PhantomJS,Deprecated,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://phantomjs.org/"
+Android Espresso,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/functional"">From Testing ADR.</a>  https://developer.android.com/training/testing/espresso"
+XCUITest,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/functional"">From Testing ADR.</a>  http://appium.io/docs/en/drivers/ios-xcuitest/"
+Testcafe,Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/functional"">From Testing ADR.</a>  https://devexpress.github.io/testcafe/"
+instanbul/nyc (jest),Adopted?,Tools&Languages,FALSE,"<a href=""https://engineering.walmart.com/docs/testing/unit"">From Testing ADR.</a>  https://github.com/istanbuljs/nyc"
+Nightwatch,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://nightwatchjs.org/"
+Selenium,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testing.walmart.com/testsolutions/selenium-grid/index.html"
+Cypress,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://www.cypress.io/"
+Protractor (JS/Angular),Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://www.protractortest.org/#/"
+Appium (Native Android/mobile web),Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://appium.io/"
+JMeter,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://jmeter.apache.org/"
+Automaton,Adopt,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://automaton.walmart.com/"
+Locust,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://locust.io/"
+DistGatling,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://github.com/Abiy/distGatling"
+Gatling,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://gatling.io/"
+Muxy,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://github.com/mefellows/muxy"
+Gremlin,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://www.gremlin.com/product/"
+Pumba,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://github.com/alexei-led/pumba"
+Speedometer,Adopt,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://speedometer.walmart.com/"
+Analytica,Adopt,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testing.walmart.com/testsolutions/analytica/overview.html"
+R2,Adopt,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testing.walmart.com/testsolutions/r2/overview.html"
+Pact,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://docs.pact.io/"
+SDE Selenium Grid,Adopt,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testing.walmart.com/testsolutions/selenium-grid/index.html"
+Saucelabs,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testing.walmart.com/testsolutions/sauce-labs/index.html"
+Plexus,Adopt,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://testing.walmart.com/testsolutions/plexus/overview.html"
+XRay,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://confluence.xpand-addons.com/display/XRAY/Xray+Documentation+Home"
+Hygieia,Adopt,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> http://insights.walmart.com/"
+HP ALM,Deprecated,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a>"
+Delphix,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://www.delphix.com/"
+Imanis Data,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://www.imanisdata.com/"
+Minerva,Explore,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> "
+git/github,Core,Tools&Languages,FALSE, 
+BDD (Gherkins),Core,Tools&Languages,FALSE, 
+Cucumber,Core,Tools&Languages,FALSE,"<a href=""http://testing.walmart.com/testsolutions/tools/testing-tools-radar.html"">from Testing Tools Radar.</a> https://docs.cucumber.io/"
+YAML,Core,Tools&Languages,FALSE,
+Java,Core,Tools&Languages,FALSE,
+Javascript,Core,Tools&Languages,FALSE,
+maven,Core,Tools&Languages,FALSE,
+JSON,Core,Tools&Languages,FALSE,
+REST,Core,Tools&Languages,FALSE,
+Jest,Core,Tools&Languages,FALSE,
+Node/NodeJS,Core,Tools&Languages,FALSE,
+Ajax,Core,Tools&Languages,FALSE,
+Ansible (playbooks),Core,Tools&Languages,FALSE,
+Configuration Management,Core,Skills,FALSE,
+Target Management,Core,Skills,FALSE,
+Static testing,Core,Skills,FALSE,
+Unit testing,Core,Skills,FALSE,
+Integration testing,Core,Skills,FALSE,
+Functional testing,Core,Skills,FALSE,
+Performance Testing,Core,Skills,FALSE,
+Relational tables /SQL,Core,Skills,FALSE,
+Non-relational / NoSQL,Core,Skills,FALSE,
+Transformational Leadership,Core,Skills,FALSE,"From ""Accelerate"" book"
+Lean Product Development,Core,Skills,FALSE,"From ""Accelerate"" book"
+Lean Management,Core,Skills,FALSE,"From ""Accelerate"" book"
+Test Automation,Core,Skills,FALSE,"From ""Accelerate"" book"
+Deployment Automation,Core,Skills,FALSE,"From ""Accelerate"" book"
+Trunk-Based Development,Core,Skills,FALSE,"From ""Accelerate"" book"
+Shift Left on Security,Core,Skills,FALSE,"From ""Accelerate"" book"
+Loosely-coupled architecture,Core,Skills,FALSE,"From ""Accelerate"" book"
+Team Empowerment,Core,Skills,FALSE,"From ""Accelerate"" book"
+Continuous Integration,Core,Skills,FALSE,"From ""Accelerate"" book"
+Version Control,Core,Skills,FALSE,"From ""Accelerate"" book"
+Test Data Management,Core,Skills,FALSE,"From ""Accelerate"" book"
+Monitoring,Core,Skills,FALSE,"From ""Accelerate"" book"
+Proactive Notifications,Core,Skills,FALSE,"From ""Accelerate"" book"
+Troubleshooting,Core,Skills,FALSE,
+Robust systems design,Core,Skills,FALSE,
+Measurement and Analysis,Core,Skills,FALSE,
+Requirements validation,Core,Skills,FALSE,
+Critical Thinking,Core,Skills,FALSE,
+Collaboration Skills,Core,Skills,FALSE,
+Test,Explore,Quadrant 3,,
+Test,Explore,Quadrant 4,,
